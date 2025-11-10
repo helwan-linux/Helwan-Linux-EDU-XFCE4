@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="Helwan-Linux-EDU-XFCE4"
-iso_label="Helwan-Linux-EDU-XFCE4-v1.0"
+iso_label="Helwan-Linux-EDU-XFCE4-v1.1"
 iso_publisher="helwanlinux <helwanlinux@gmail.com>"
 iso_application="Helwan Linux Live/Rescue DVD"
-iso_version="v1.0"
+iso_version="v1.1"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
